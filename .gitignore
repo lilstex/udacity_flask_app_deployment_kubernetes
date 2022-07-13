@@ -27,5 +27,8 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+venv
+env
+.env_file
 
 .github/**
